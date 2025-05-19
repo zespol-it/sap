@@ -1,0 +1,12 @@
+ABAP Developer
+ABAP 7.4
+ABAP OO
+S/4HANA
+
+Posiadają doświadczenie w przynajmniej dwóch modułach SAP: FICO, HR, SD, MM,
+
+
+Znają technologie wymiany danych między systemami m.in. OData, REST, IDOC, WSDL, ProxyServices,
+
+Mają doświadczenie w zakresie metod rozszerzania standardowych procesów biznesowych w SAP,
+Znają AdobeForms oraz SAPScript,
