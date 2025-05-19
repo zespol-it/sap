@@ -205,7 +205,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Support / Wsparcie
 
 For support, please contact:
-- Email: support@example.com
+- Email: biuro@zespol-it.pl
 - SAP Service Marketplace: https://service.sap.com
 
 ## Version History / Historia wersji
